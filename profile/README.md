@@ -62,6 +62,7 @@ You need to write your Instagram Account info (for crawling)
 cp .env.sample .env
 vim .env    # Write your instagram info!
 npm run build
+npm run server
 ```
 
 Your `.env` file would look like this: wrote PORT=3000 for example
