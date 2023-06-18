@@ -8,9 +8,9 @@
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/dhbryan75"><img src="https://avatars3.githubusercontent.com/dhbryan75" width="100px;" alt=""/><br /><sub><b>김도현</b></sub></a><br /><a href="https://github.com/NextFeed/next-feed-front/commits?author=dhbryan75" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/yms1204"><img src="https://avatars3.githubusercontent.com/yms1204" width="100px;" alt=""/><br /><sub><b>송유민</b></sub></a><br /><a href="https://github.com/NextFeed/next-feed-front/commits?author=yms1204" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/yxxshin"><img src="https://avatars3.githubusercontent.com/yxxshin" width="100px;" alt=""/><br /><sub><b>신연상</b></sub></a><br /><a href="https://github.com/NextFeed/NextFeed_server/commits?author=dshyun0226" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/dhbryan75"><br /><div><b>김도현</b></div></a><br /><a href="https://github.com/NextFeed/next-feed-front/commits?author=dhbryan75" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/yms1204"><br /><div><b>송유민</b></div></a><br /><a href="https://github.com/NextFeed/next-feed-front/commits?author=yms1204" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/yxxshin"><br /><div><b>신연상</b></div></a><br /><a href="https://github.com/NextFeed/NextFeed_server/commits?author=dshyun0226" title="Code">💻</a></td>
   </tr>
 </table>
 
