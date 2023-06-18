@@ -23,6 +23,7 @@
 We recommend you to make a python environment, such as
 ```properties
 conda create -n NextFeed python=3.8
+conda activate NextFeed
 ```
 
 Git clone our two repos,
