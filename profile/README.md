@@ -75,7 +75,7 @@ Now, your front server is running at the background! You could find our project 
 
 To terminate the background server, find and kill it.
 ```properties
-ps -ef      # Find your background server PID number
+ps -ef | grep node      # Find your background server PID number (will look like node ./server)
 kill -9 {PID_NUMBER}
 ```
 
