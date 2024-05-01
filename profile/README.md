@@ -1,5 +1,10 @@
 # NextFeed
-## A project for Seoul National University HCI class (2023-1)
+## An AI service that analyzes your Instagram profile and selects photos to upload accordingly.
+
+![](https://imgur.com/ya93TDC.png)
+
+A project for Seoul National University HCI class (2023-1)
+
 
 ## Contributors
 
